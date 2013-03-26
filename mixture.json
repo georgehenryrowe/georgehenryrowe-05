@@ -1,0 +1,20 @@
+{
+    "debug": false,
+    "lintScripts": false,
+    "preprocessorLocations": "C:/wamp/www/georgehenryrowe-05/",
+    "preprocessorScriptOutput": "/js",
+    "preprocessorStyleOutput": null,
+    "projectName": "georgehenryrowe-05",
+    "projectDescription": "My current site",
+    "publishedId": null,
+    "serverHostname": null,
+    "serverPort": null,
+    "templateDirectory": "templates",
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "index",
+    "type": "simple",
+    "useCompass": false,
+    "simpleModePartnerServer": "http://localhost/",
+    "modelSource": null,
+    "domain": null
+}
